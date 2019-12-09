@@ -1,7 +1,7 @@
 from Utils.CustomFileReader import readFileLinebyLineString
 
 
-class Day2:
+class Day02:
 
     @staticmethod
     def calcDiffOfIds(id1, id2):
@@ -58,18 +58,18 @@ class Day2:
                 if comp == item:
                     break
                 else:
-                    difftemp = Day2.calcDiffOfIds(item, comp)
+                    difftemp = Day02.calcDiffOfIds(item, comp)
                     if difftemp < mindiff or mindiff == 0:
                         mindiff = difftemp
                         id = item
                         iddiff = comp
-        return Day2.eliminateDiff(id, iddiff)
+        return Day02.eliminateDiff(id, iddiff)
 
     @staticmethod
     def main():
-        print("Result part one: " + str(Day2.day2part1(readFileLinebyLineString('./data.txt'))))
-        print("Result part two: " + str(Day2.day2part2(readFileLinebyLineString('./data.txt'))))
+        print("Result part one: " + str(Day02.day2part1(readFileLinebyLineString('./data.txt'))))
+        print("Result part two: " + str(Day02.day2part2(readFileLinebyLineString('./data.txt'))))
 
 
 if __name__ == '__main__':
-    Day2.main()
+    Day02.main()

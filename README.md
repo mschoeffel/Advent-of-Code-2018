@@ -21,15 +21,15 @@ This year I looked into `Python` and tried to solve the tasks using this languag
 ## Score
 | Day | Part one | Part two |
 |----|----|----|
-| [Day 1](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day1) | :star: | :star: |
-| [Day 2](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day2) | :star: | :star: |
-| [Day 3](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day3) | :clock10: | :clock10: |
-| [Day 4](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day4) | :clock10: | :clock10: |
-| [Day 5](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day5) | :clock10: | :clock10: |
-| [Day 6](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day6) | :clock10: | :clock10: |
-| [Day 7](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day7) | :clock10: | :clock10: |
-| [Day 8](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day8) | :clock10: | :clock10: |
-| [Day 9](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day9) | :clock10: | :clock10: |
+| [Day 1](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day01) | :star: | :star: |
+| [Day 2](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day02) | :star: | :star: |
+| [Day 3](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day03) | :clock10: | :clock10: |
+| [Day 4](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day04) | :clock10: | :clock10: |
+| [Day 5](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day05) | :clock10: | :clock10: |
+| [Day 6](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day06) | :clock10: | :clock10: |
+| [Day 7](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day07) | :clock10: | :clock10: |
+| [Day 8](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day08) | :clock10: | :clock10: |
+| [Day 9](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day09) | :clock10: | :clock10: |
 | [Day 10](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day10) | :clock10: | :clock10: |
 | [Day 11](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day11) | :clock10: | :clock10: |
 | [Day 12](https://github.com/mschoeffel/Advent-of-Code-2018/tree/master/Day12) | :clock10: | :clock10: |

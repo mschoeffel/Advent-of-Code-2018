@@ -1,9 +1,9 @@
-from Day1.AppDay1 import Day1
-from Day2.AppDay2 import Day2
+from Day01.AppDay01 import Day01
+from Day02.AppDay02 import Day02
 
 def main():
-    Day1.main()
-    Day2.main()
+    Day01.main()
+    Day02.main()
 
 
 if __name__ == '__main__':

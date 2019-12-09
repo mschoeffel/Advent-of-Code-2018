@@ -1,14 +1,14 @@
 import unittest
-from Test.TestDay1 import TestDay1
-from Test.TestDay2 import TestDay2
+from Test.TestDay01 import TestDay1
+from Test.TestDay02 import TestDay2
 
 
 def suite():
     suite = unittest.TestSuite()
-    suite.addTest(TestDay1('testDay1Part1'))
-    suite.addTest(TestDay1('testDay1Part2'))
-    suite.addTest(TestDay2('testDay2Part1'))
-    suite.addTest(TestDay2('testDay2Part2'))
+    suite.addTest(TestDay1('testDay01Part1'))
+    suite.addTest(TestDay1('testDay01Part2'))
+    suite.addTest(TestDay2('testDay02Part1'))
+    suite.addTest(TestDay2('testDay02Part2'))
     return suite
 
 

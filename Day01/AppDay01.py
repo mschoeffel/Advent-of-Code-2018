@@ -1,7 +1,7 @@
 from Utils.CustomFileReader import readFileLinebyLineInt
 
 
-class Day1:
+class Day01:
 
     @staticmethod
     def day1part1(data):
@@ -24,9 +24,9 @@ class Day1:
 
     @staticmethod
     def main():
-        print("Day 1: Result part one: " + str(Day1.day1part1(readFileLinebyLineInt('./changes.txt'))))
-        print("Day 1: Result part two: " + str(Day1.day1part2(readFileLinebyLineInt('./changes.txt'))))
+        print("Day 1: Result part one: " + str(Day01.day1part1(readFileLinebyLineInt('./changes.txt'))))
+        print("Day 1: Result part two: " + str(Day01.day1part2(readFileLinebyLineInt('./changes.txt'))))
 
 
 if __name__ == '__main__':
-    Day1.main()
+    Day01.main()
